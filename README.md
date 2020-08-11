@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Proffy" title="Proffy" src=".github/logo.svg" width="220px" style="color:#8257e5"/>
+    <img alt="Proffy" title="Proffy" src="logo.svg" width="220px" style="filter:invert(37%) sepia(100%) saturate(655%) hue-rotate(200deg) brightness(91%) contrast(98%);" />
 </h1>
 
 <br>
