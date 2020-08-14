@@ -5,9 +5,9 @@
 <br>
 
 <p align="center">
-  <img src=".github/mobile.png" width="60%">
-  <img alt="screen2" src=".github/web-home.png" width="50%">
-  <img alt="screen3" src=".github/web-teachers.png" width="50%">
+  <img src=".github/mobile.png" width="70%">
+  <img alt="screen2" src=".github/web-home.png" width="70%">
+  <img alt="screen3" src=".github/web-teachers.png" width="70%">
 </p>
 
 
