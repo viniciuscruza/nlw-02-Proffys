@@ -4,11 +4,16 @@
 
 <br>
 
-<p align="center">
-  <img src=".github/mobile.png" width="70%">
-  <img alt="screen2" src=".github/web-home.png" width="70%">
-  <img alt="screen3" src=".github/web-teachers.png" width="70%">
-</p>
+
+ <h1 align="center">Mobile version</h1>
+ <p align="center">
+    <img src=".github/mobile.png" width="70%">
+ </p>
+ <h1 align="center">Web version</h1>
+ <p align="center">
+    <img alt="screen2" src=".github/web-home.png" width="70%">
+    <img alt="screen3" src=".github/web-teachers.png" width="70%">
+ </p>
 
 
 ## 💻 Projeto
