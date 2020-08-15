@@ -1,6 +1,6 @@
-<h1 align="center">
-    Proffy
-</h1>
+<p align="center">
+   <img src="./.github/logo.png" alt="Proffy" width="280"/>
+</p>
 
 <br>
 
@@ -12,6 +12,7 @@
  <h1 align="center">Web version</h1>
  <p align="center">
     <img alt="screen2" src=".github/web-home.png" width="70%">
+    <br>
     <img alt="screen3" src=".github/web-teachers.png" width="70%">
  </p>
 
